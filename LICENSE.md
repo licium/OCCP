@@ -31,13 +31,11 @@ a. **License grant**.
     3. <span style="text-decoration:underline;">Term</span>. The term of this Public License is specified in Section[ 6(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6a).  
     4. <span style="text-decoration:underline;">Media and formats; technical modifications allowed</span>. The Licensor authorizes You to exercise the Licensed Rights in all media and formats whether now known or hereafter created, and to make technical modifications necessary to do so. The Licensor waives and/or agrees not to assert any right or authority to forbid You from making technical modifications necessary to exercise the Licensed Rights, including technical modifications necessary to circumvent Effective Technological Measures. For purposes of this Public License, simply making modifications authorized by this Section[ 2(a)(4)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s2a4) never produces Adapted Material.  
     5. <span style="text-decoration:underline;">Downstream recipients</span>.  
-
         A. <span style="text-decoration:underline;">Offer from the Licensor – Licensed Material</span>. Every recipient of the Licensed Material automatically receives an offer from the Licensor to exercise the Licensed Rights under the terms and conditions of this Public License.  
         B. <span style="text-decoration:underline;">No downstream restrictions</span>. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, the Licensed Material if doing so restricts exercise of the Licensed Rights by any recipient of the Licensed Material.  
     6. <span style="text-decoration:underline;">No endorsement</span>. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section[ 3(a)(1)(A)(i)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1Ai).  
 
 b. **Other rights**.  
-
     1. Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.  
     2. Patent and trademark rights are not licensed under this Public License.  
     3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. In all other cases the Licensor expressly reserves any right to collect such royalties, including when the Licensed Material is used other than for NonCommercial purposes.  
@@ -47,9 +45,7 @@ b. **Other rights**.
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
 a. **Attribution**.  
-
     1. If You Share the Licensed Material, You must:   
-
         A. retain the following if it is supplied by the Licensor with the Licensed Material:  
             i. identification of the creator(s) of the Licensed Material and any others designated to receive attribution, in any reasonable manner requested by the Licensor (including by pseudonym if designated);  
             ii. a copyright notice;  
@@ -62,14 +58,12 @@ a. **Attribution**.
     2. You may satisfy the conditions in Section[ 3(a)(1)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.  
     3. If requested by the Licensor, You must remove any of the information required by Section[ 3(a)(1)(A)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a1A) to the extent reasonably practicable.  
 
-**Section 4 – Sui Generis Database Rights.**  
+**Section 4 – Sui Generis Database Rights.** 
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:  
-
 a. for the avoidance of doubt, Section[ 2(a)(1)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s2a1) grants You the right to extract, reuse, reproduce, and Share all or a substantial portion of the contents of the database for NonCommercial purposes only and provided You do not Share Adapted Material;  
 b. if You include all or a substantial portion of the database contents in a database in which You have Sui Generis Database Rights, then the database in which You have Sui Generis Database Rights (but not its individual contents) is Adapted Material; and  
 c. You must comply with the conditions in Section[ 3(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s3a) if You Share all or a substantial portion of the contents of the database.  
-
 For the avoidance of doubt, this Section[ 4](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s4) supplements and does not replace Your obligations under this Public License where the Licensed Rights include other Copyright and Similar Rights.  
 
 **Section 5 – Disclaimer of Warranties and Limitation of Liability.**
@@ -82,7 +76,6 @@ c. The disclaimer of warranties and limitation of liability provided above shall
 
 a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this Public License, then Your rights under this Public License terminate automatically.  
 b. Where Your right to use the Licensed Material has terminated under Section[ 6(a)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6a), it reinstates:  
-
     1. automatically as of the date the violation is cured, provided it is cured within 30 days of Your discovery of the violation; or  
     2. upon express reinstatement by the Licensor.  
 For the avoidance of doubt, this Section[ 6(b)](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode#s6b) does not affect any right the Licensor may have to seek remedies for Your violations of this Public License.  
