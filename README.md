@@ -1,4 +1,4 @@
-# Open Content Certification Protocol (OCCP)
+# Open Content Certification Protocol (OCCP) 
 
 See the [whitepaper](occp-whitepaper-2020-09-02.pdf) for a detailed documentation.
 
@@ -10,3 +10,5 @@ It is the goal of the certification process to create trust in assertions, claim
 
 Content Certificates are the result of the certification process. They are issued implicitly when a certification transaction is confirmed on a public blockchain network. Thus, content certificates are open, discoverable and verifiable by anyone online and accessible for individuals or systems, using software applications or APIs. 
 Services and applications can process content certificates in an automated way so that their users can verify the authenticity of digital media content, the identity and attribution of rightsholders and their claims to the content by having access to the digital assets, only.
+
+![occp-icon](./occp-icon.png)
