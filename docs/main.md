@@ -282,6 +282,9 @@ the identity of content
 
 # Abstract
 
+<img src="images/occp-image1.png" width="500">\
+*Fig. 1: Example of a content certificate, image via pixabay.com*
+
 The Open Content Certification Protocol (OCCP) provides a description of
 the process and involved technologies that can be used by creative
 individuals, media organisations or consumers to generate or verify
@@ -290,9 +293,6 @@ certificates for digital media content.
 Content certificates allow rightsholders to inseparably and verifiably
 connect information, basic metadata, licensing terms and other rights
 management information to digital content.
-
-<img src="images/occp-image1.png" width="500">\
-*Fig. 1: Example of a content certificate, image via pixabay.com*
 
 Public organisations can act as certification authorities. By means of
 one blockchain transaction certifiers openly testify that they have
@@ -603,7 +603,7 @@ signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
 <img src="images/occp-image4.png" width="800">\
-*Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]*
+*Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github](https://github.com/titusz/iscc-registry/blob/master/README.md)*
 
 ## Self-Authorisation of the Registrant
 
