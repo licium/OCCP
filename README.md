@@ -2,9 +2,8 @@
 
 <img src="occp-icon.png" width="250">
 
-See the [whitepaper](https://github.com/licium/occp/blob/master/docs/main.md) (HTML) for a detailed documentation.
-
-Here, you can download the [whitepaper](occp-whitepaper.pdf) vo.3  as a PDF-file.
+See the [whitepaper](https://github.com/licium/occp/blob/master/docs/main.md) (HTML) for a detailed documentation.  
+Here, you can download v0.3 of the [whitepaper](occp-whitepaper.pdf) as a PDF-file.
 
 The Open Content Certification Protocol (OCCP) provides a description of the process and involved technologies that can be used by creative individuals, media organisations or consumers to generate or verify certificates for digital media content. 
 
