@@ -289,6 +289,7 @@ connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
 ![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)
+*Fig. 1: example of a content certificate, image via pixabay.com*
 
 Public organisations can act as certification authorities. By means of
 one blockchain transaction certifiers openly testify that they have
@@ -433,6 +434,7 @@ protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
 ![Fig. 2: layer model](images/occp-image2.png)
+*Fig. 2: layer model*
 
 The specification of the ISCC provides a way to generate unique
 identifiers for digital media assets. The decentralised cross-chain
@@ -522,6 +524,7 @@ organisations, registries or proprietary third-party services and
 software.
 
 ![Fig. 3: step from OCCP – Process](images/occp-image3.png)
+*Fig. 3: step from OCCP – Process*
 
 Processing the content with the algorithms defined by the [ISCC
 specification](https://iscc.codes)[^4] creates a unique composite
@@ -719,6 +722,7 @@ are associated with the ISCC-ID.
 # OCCP -- Overview
 
 ![Fig. 5: OCCP -- Overview](images/occp-image5.png)
+*Fig. 5: OCCP – Overview*
  
 
 # Use Cases
@@ -771,6 +775,7 @@ their relationships by concluding bilateral agreements.
 ## Creation of Certifier Wallet
 
 ![Fig. 6: step from [OCCP -- Process](#occp-process-overview)](images/occp-image6.png)
+*Fig. 6: step from OCCP – Process*
 
 Certifiers can create a certification address for themselves and
 independently of any organisation, registry or other centralised
@@ -796,6 +801,7 @@ in control of the web-hosting resource and domain that is used for the
 website.
 
 ![Fig. 7: step from [OCCP -- Process](#occp-process-overview)](images/occp-image7.png)
+*Fig. 7: step from OCCP – Process*
 
 After creation of the certification address this public address needs to
 be published on the websites of the certifier in such a way that is
@@ -817,6 +823,7 @@ certifier.
 ## Creation of Registrant Wallet
 
 ![Fig. 8: step from [OCCP -- Process](#occp-process-overview)](images/occp-image8.png)
+*Fig. 8: step from OCCP – Process*
 
 Registrants can create a registration address for themselves and
 independently of any organisation, registry or other centralised
@@ -842,6 +849,7 @@ registrant, and regulates other matters. This agreement must be signed
 offline or offchain.
 
 ![Fig. 9: step from [OCCP -- Process](#occp-process-overview)](images/occp-image9.png)
+*Fig. 9: step from OCCP – Process*
 
 ## Challenge
 
@@ -875,6 +883,7 @@ assertions or claims to the content by having access to the digital
 assets, only.
 
 ![Fig. 10: step from [OCCP -- Process](#occp-process-overview)](images/occp-image10.png)
+*Fig. 10: step from OCCP – Process*
 
 To resolve the requested information, verifiers can decentrally generate
 an ISCC from a digital asset using dedicated software applications.
@@ -913,7 +922,8 @@ registrants of digital content.
 
 # OCCP -- Process Overview
 
-![Fig. 11: step from [OCCP -- Process](#occp-process-overview)](images/occp-image11.png)
+![Fig. 11: [OCCP -- Process](#occp-process-overview)](images/occp-image11.png)
+*Fig. 3: OCCP – Process*
 
 # Further Discussion
 
