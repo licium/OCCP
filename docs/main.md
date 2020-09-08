@@ -436,7 +436,7 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-<img src="images/occp-image2.png" width="800">\
+<img src="images/occp-image2.png" width="500">\
 *Fig. 2: layer model*
 
 The specification of the ISCC provides a way to generate unique
@@ -926,7 +926,7 @@ registrants of digital content.
 # OCCP -- Process Overview
 
 <img src="images/occp-image11.png" width="800">\
-*Fig. 3: OCCP – Process*
+*Fig. 11: OCCP – Process*
 
 # Further Discussion
 
