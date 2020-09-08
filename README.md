@@ -1,5 +1,7 @@
 # Open Content Certification Protocol (OCCP) 
 
+<img src="occp-icon.png" width="250">
+
 See the [whitepaper](https://github.com/licium/occp/blob/master/docs/main.md) (HTML) for a detailed documentation.
 
 Here, you can download the [whitepaper](occp-whitepaper.pdf) vo.3  as a PDF-file.
@@ -18,5 +20,3 @@ They are issued implicitly when a certification transaction is confirmed on any 
 Thus, content certificates are open, discoverable and verifiable by anyone online and accessible for individuals or systems, using software applications or APIs. 
 
 Services and applications can process content certificates in an automated way so that their users can verify the authenticity of digital media content, the identities of certifiers and entities, and their assertions or claims to the content by having access to the digital assets, only.
-
-![occp-icon](./occp-icon.png)
