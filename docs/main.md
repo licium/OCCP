@@ -435,7 +435,7 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-![Fig. 2: Layer model](images/occp-image2.png)
+<img src="images/occp-image2.png" width="800">\
 *Fig. 2: layer model*
 
 The specification of the ISCC provides a way to generate unique
@@ -525,7 +525,7 @@ identify same or similar content independently of centralised
 organisations, registries or proprietary third-party services and
 software.
 
-![Fig. 3: Step from OCCP – Process](images/occp-image3.png)
+<img src="images/occp-image3.png" width="800">\
 *Fig. 3: Step from OCCP – Process*
 
 Processing the content with the algorithms defined by the [ISCC
@@ -601,8 +601,7 @@ registration transaction for a specific ISCC has been cryptographically
 signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
-![Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]
-(https://github.com/titusz/iscc-registry/blob/master/README.md)](images/occp-image4.png)
+<img src="images/occp-image4.png" width="800">\
 *Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]*
 
 ## Self-Authorisation of the Registrant
@@ -724,7 +723,7 @@ are associated with the ISCC-ID.
 
 # OCCP -- Overview
 
-![Fig. 5: OCCP -- Overview](images/occp-image5.png)
+<img src="images/occp-image5.png" width="800">\
 *Fig. 5: OCCP – Overview*
  
 
@@ -777,7 +776,7 @@ their relationships by concluding bilateral agreements.
 
 ## Creation of Certifier Wallet
 
-![Fig. 6: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image6.png)
+<img src="images/occp-image6.png" width="800">\
 *Fig. 6: Step from OCCP – Process*
 
 Certifiers can create a certification address for themselves and
@@ -803,7 +802,7 @@ information about the legal entity[^9], and that only the certifier is
 in control of the web-hosting resource and domain that is used for the
 website.
 
-![Fig. 7: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image7.png)
+<img src="images/occp-image7.png" width="800">\
 *Fig. 7: Step from OCCP – Process*
 
 After creation of the certification address this public address needs to
@@ -825,7 +824,7 @@ certifier.
 
 ## Creation of Registrant Wallet
 
-![Fig. 8: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image8.png)
+<img src="images/occp-image8.png" width="800">\
 *Fig. 8: Step from OCCP – Process*
 
 Registrants can create a registration address for themselves and
@@ -851,7 +850,7 @@ relationship, the services, the liabilities of the certifier and the
 registrant, and regulates other matters. This agreement must be signed
 offline or offchain.
 
-![Fig. 9: step from [OCCP -- Process](#occp-process-overview)](images/occp-image9.png)
+<img src="images/occp-image9.png" width="800">\
 *Fig. 9: Step from OCCP – Process*
 
 ## Challenge
@@ -885,7 +884,7 @@ a pseudonymous registrant and an identified certifier, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-![Fig. 10: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image10.png)
+<img src="images/occp-image10.png" width="800">\
 *Fig. 10: Step from OCCP – Process*
 
 To resolve the requested information, verifiers can decentrally generate
@@ -925,7 +924,7 @@ registrants of digital content.
 
 # OCCP -- Process Overview
 
-![Fig. 11: [OCCP -- Process](#occp-process-overview)](images/occp-image11.png)
+<img src="images/occp-image11.png" width="800">\
 *Fig. 3: OCCP – Process*
 
 # Further Discussion
