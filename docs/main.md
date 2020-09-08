@@ -288,7 +288,7 @@ Content certificates allow rightsholders to inseparably and verifiably
 connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
-[![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)](images/images/occp-image1.png){:height="50%" width="50%"}
+![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)
 
 Public organisations can act as certification authorities. By means of
 one blockchain transaction certifiers openly testify that they have
@@ -432,10 +432,9 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-![](media/image10.png){width="6.083333333333333in"
-height="4.508530183727034in"}
 
-*Fig. 2: layer model*
+![Fig. 1: Fig. 2: layer model](images/occp-image2.png){width="6.083333333333333in"
+height="4.508530183727034in"}
 
 The specification of the ISCC provides a way to generate unique
 identifiers for digital media assets. The decentralised cross-chain
