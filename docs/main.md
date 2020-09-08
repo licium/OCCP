@@ -288,7 +288,7 @@ Content certificates allow rightsholders to inseparably and verifiably
 connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
-![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)
+[![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)](images/images/occp-image1.png){:height="50%" width="50%"}
 
 Public organisations can act as certification authorities. By means of
 one blockchain transaction certifiers openly testify that they have
