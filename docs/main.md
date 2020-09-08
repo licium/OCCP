@@ -1138,7 +1138,7 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-[# ^1]: See also initiatives in the US, like the Deeptrust Alliance
+# [^1]: See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
