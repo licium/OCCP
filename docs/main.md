@@ -290,7 +290,7 @@ Content certificates allow rightsholders to inseparably and verifiably
 connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
-![Fig. 1: Example of a content certificate, image via pixabay.com](images/occp-image1.png)
+<img src="images/occp-image1.png" width="500">\
 *Fig. 1: Example of a content certificate, image via pixabay.com*
 
 Public organisations can act as certification authorities. By means of
