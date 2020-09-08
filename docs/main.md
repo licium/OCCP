@@ -120,7 +120,7 @@ Table of Content
 >
 > [Public Self-Authentication ofCertifier](#public-self-authentication-of-certifier)
 >
-> [Creation of Registrant Wallet](#creation-of-registrant-wallet
+> [Creation of Registrant Wallet](#creation-of-registrant-wallet)
 >
 > [Registrant Identity Verification](#registrant-identity-verification)
 >
@@ -432,9 +432,7 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-
-![Fig. 1: Fig. 2: layer model](images/occp-image2.png){width="6.083333333333333in"
-height="4.508530183727034in"}
+![Fig. 2: layer model](images/occp-image2.png)
 
 The specification of the ISCC provides a way to generate unique
 identifiers for digital media assets. The decentralised cross-chain
@@ -523,11 +521,7 @@ identify same or similar content independently of centralised
 organisations, registries or proprietary third-party services and
 software.
 
-![](media/image7.png){width="6.086614173228346in"
-height="0.6944444444444444in"}
-
-*Fig. 3: step from [OCCP -- Process
-Overview](#occp-process-overview)*
+![Fig. 3: step from OCCP – Process](images/occp-image3.png)
 
 Processing the content with the algorithms defined by the [ISCC
 specification](https://iscc.codes)[^4] creates a unique composite
@@ -602,12 +596,8 @@ registration transaction for a specific ISCC has been cryptographically
 signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
-![](media/image12.png){width="6.022023184601925in"
-height="4.498502843394576in"}
-
-*Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry
-Protocol, by Titusz Pan via
-[Github](https://github.com/titusz/iscc-registry/blob/master/README.md)*
+![Fig. 4: overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]
+(https://github.com/titusz/iscc-registry/blob/master/README.md)](images/occp-image4.png)
 
 ## Self-Authorisation of the Registrant
 
@@ -728,11 +718,7 @@ are associated with the ISCC-ID.
 
 # OCCP -- Overview
 
-![](media/image11.png){width="6.086614173228346in"
-height="4.527777777777778in"}
-
-*Fig. 5: OCCP -- Overview*
-
+![Fig. 5: OCCP -- Overview](images/occp-image5.png)
  
 
 # Use Cases
@@ -784,10 +770,7 @@ their relationships by concluding bilateral agreements.
 
 ## Creation of Certifier Wallet
 
-![](media/image4.png){width="6.086614173228346in"
-height="0.7222222222222222in"}
-
-*Fig. 6: step from [OCCP -- Process](#occp-process-overview)*
+![Fig. 6: step from [OCCP -- Process](#occp-process-overview)](images/occp-image6.png)
 
 Certifiers can create a certification address for themselves and
 independently of any organisation, registry or other centralised
@@ -812,10 +795,7 @@ information about the legal entity[^9], and that only the certifier is
 in control of the web-hosting resource and domain that is used for the
 website.
 
-![](media/image2.png){width="6.086614173228346in"
-height="0.7777777777777778in"}
-
-*Fig. 7: step from [OCCP -- Process](#occp-process-overview)*
+![Fig. 7: step from [OCCP -- Process](#occp-process-overview)](images/occp-image7.png)
 
 After creation of the certification address this public address needs to
 be published on the websites of the certifier in such a way that is
@@ -836,9 +816,7 @@ certifier.
 
 ## Creation of Registrant Wallet
 
-![](media/image3.png){width="6.086614173228346in" height="0.75in"}
-
-*Fig. 8: step from [OCCP -- Process](#occp-process-overview)*
+![Fig. 8: step from [OCCP -- Process](#occp-process-overview)](images/occp-image8.png)
 
 Registrants can create a registration address for themselves and
 independently of any organisation, registry or other centralised
@@ -863,10 +841,7 @@ relationship, the services, the liabilities of the certifier and the
 registrant, and regulates other matters. This agreement must be signed
 offline or offchain.
 
-![](media/image5.png){width="6.086614173228346in"
-height="2.0833333333333335in"}
-
-*Fig. 9: step from [OCCP -- Process](#occp-process-overview)*
+![Fig. 9: step from [OCCP -- Process](#occp-process-overview)](images/occp-image9.png)
 
 ## Challenge
 
@@ -899,10 +874,7 @@ a pseudonymous registrant and an identified certifier, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-![](media/image8.png){width="6.086614173228346in"
-height="3.9166666666666665in"}
-
-*Fig. 10: mockup of possible software application*
+![Fig. 10: step from [OCCP -- Process](#occp-process-overview)](images/occp-image10.png)
 
 To resolve the requested information, verifiers can decentrally generate
 an ISCC from a digital asset using dedicated software applications.
@@ -941,10 +913,7 @@ registrants of digital content.
 
 # OCCP -- Process Overview
 
-![](media/image9.png){width="5.118110236220472in"
-height="7.165354330708661in"}
-
-*Fig. 11: OCCP -- Process*
+![Fig. 11: step from [OCCP -- Process](#occp-process-overview)](images/occp-image11.png)
 
 # Further Discussion
 
