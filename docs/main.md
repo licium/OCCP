@@ -288,8 +288,8 @@ Content certificates allow rightsholders to inseparably and verifiably
 connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
-![Fig. 1: example of a content certificate, image via pixabay.com](images/occp-image1.png)
-*Fig. 1: example of a content certificate, image via pixabay.com*
+![Fig. 1: Example of a content certificate, image via pixabay.com](images/occp-image1.png)
+*Fig. 1: Example of a content certificate, image via pixabay.com*
 
 Public organisations can act as certification authorities. By means of
 one blockchain transaction certifiers openly testify that they have
@@ -433,7 +433,7 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-![Fig. 2: layer model](images/occp-image2.png)
+![Fig. 2: Layer model](images/occp-image2.png)
 *Fig. 2: layer model*
 
 The specification of the ISCC provides a way to generate unique
@@ -523,8 +523,8 @@ identify same or similar content independently of centralised
 organisations, registries or proprietary third-party services and
 software.
 
-![Fig. 3: step from OCCP – Process](images/occp-image3.png)
-*Fig. 3: step from OCCP – Process*
+![Fig. 3: Step from OCCP – Process](images/occp-image3.png)
+*Fig. 3: Step from OCCP – Process*
 
 Processing the content with the algorithms defined by the [ISCC
 specification](https://iscc.codes)[^4] creates a unique composite
@@ -599,8 +599,9 @@ registration transaction for a specific ISCC has been cryptographically
 signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
-![Fig. 4: overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]
+![Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]
 (https://github.com/titusz/iscc-registry/blob/master/README.md)](images/occp-image4.png)
+*Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github]*
 
 ## Self-Authorisation of the Registrant
 
@@ -774,8 +775,8 @@ their relationships by concluding bilateral agreements.
 
 ## Creation of Certifier Wallet
 
-![Fig. 6: step from [OCCP -- Process](#occp-process-overview)](images/occp-image6.png)
-*Fig. 6: step from OCCP – Process*
+![Fig. 6: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image6.png)
+*Fig. 6: Step from OCCP – Process*
 
 Certifiers can create a certification address for themselves and
 independently of any organisation, registry or other centralised
@@ -800,8 +801,8 @@ information about the legal entity[^9], and that only the certifier is
 in control of the web-hosting resource and domain that is used for the
 website.
 
-![Fig. 7: step from [OCCP -- Process](#occp-process-overview)](images/occp-image7.png)
-*Fig. 7: step from OCCP – Process*
+![Fig. 7: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image7.png)
+*Fig. 7: Step from OCCP – Process*
 
 After creation of the certification address this public address needs to
 be published on the websites of the certifier in such a way that is
@@ -822,8 +823,8 @@ certifier.
 
 ## Creation of Registrant Wallet
 
-![Fig. 8: step from [OCCP -- Process](#occp-process-overview)](images/occp-image8.png)
-*Fig. 8: step from OCCP – Process*
+![Fig. 8: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image8.png)
+*Fig. 8: Step from OCCP – Process*
 
 Registrants can create a registration address for themselves and
 independently of any organisation, registry or other centralised
@@ -849,7 +850,7 @@ registrant, and regulates other matters. This agreement must be signed
 offline or offchain.
 
 ![Fig. 9: step from [OCCP -- Process](#occp-process-overview)](images/occp-image9.png)
-*Fig. 9: step from OCCP – Process*
+*Fig. 9: Step from OCCP – Process*
 
 ## Challenge
 
@@ -882,8 +883,8 @@ a pseudonymous registrant and an identified certifier, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-![Fig. 10: step from [OCCP -- Process](#occp-process-overview)](images/occp-image10.png)
-*Fig. 10: step from OCCP – Process*
+![Fig. 10: Step from [OCCP -- Process](#occp-process-overview)](images/occp-image10.png)
+*Fig. 10: Step from OCCP – Process*
 
 To resolve the requested information, verifiers can decentrally generate
 an ISCC from a digital asset using dedicated software applications.
