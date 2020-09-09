@@ -344,7 +344,7 @@ have been manipulated or not.
 Policy makers in all parts of the world are trying to tackle the current
 media crisis and fight misinformation and fake news by enforcing an
 increased transparency and greater accountability for content that is
-published online by users and rightsholders. <sup id="a1">[FN 1](#f1)</sup>
+published online by users and rightsholders. <sup id="a1">[1](#f1)</sup>
 
 ## Missing Identifiers and Attribution
 
@@ -367,7 +367,7 @@ Creators demand respect, attribution and a fair remuneration for their
 creative work. But without basic metadata, licensing terms and other
 rights management information, inseparably connected to the content, it
 is simply impossible to properly credit a work or learn about the terms
-of use.[^2]
+of use.<sup id="a2">[2](#f2)</sup>
 
 Content creators and other rightsholders lack an easy way to provide
 such information. It often results in the misuse or abuse, when content
@@ -397,7 +397,8 @@ This means that in order to benefit from the Directive and avoid
 misappropriation of content online, rightsholders need to verifiably
 publish reliable, accurate and comprehensive metadata in a timely
 manner, and make rights management information openly available and
-easily accessible for automated retrieval.[^3] For rightsholders we
+easily accessible for automated retrieval.<sup id="a3">[3](#f3)</sup> 
+For rightsholders we
 conclude a legal necessity to act.
 
 ## Digital Commerce 
@@ -532,7 +533,7 @@ software.
 *Fig. 3: Step from OCCP – Process*
 
 Processing the content with the algorithms defined by the [ISCC
-specification](https://iscc.codes)[^4] creates a unique composite
+specification](https://iscc.codes)<sup id="a4">[4](#f4)</sup> creates a unique composite
 code, that consists of four major elements: the Meta-Code, Content-Code,
 Data-Code, and Instance-Code. Thus, the ISCC identifies and describes
 content across multiple layers: From the embedded or external metadata,
@@ -548,7 +549,7 @@ Organisation for Standardisation ISO decided to accept the International
 Standard Content Code (ISCC) as a Preliminary Work Item (PWI) and to
 establish a working group [ISO TC 46/SC 9/WG
 18](https://www.iso.org/committee/48836.html) called 'NP 24138
-International Standard Content Code' to investigate the proposal.[^5]
+International Standard Content Code' to investigate the proposal.<sup id="a5">[5](#f5)</sup>
 
 # Content Certification
 
@@ -567,7 +568,7 @@ It is important to highlight that assertions or claims to the content
 can be made -- in principle -- by anyone regardless of rights or content
 ownership and without consent of the actual rightsholders. These claims
 may be justified, but they are not -- per se -- transparently verifiable
-for third parties.[^6]
+for third parties.<sup id="a6">[6](#f6)</sup>
 
 However, when an ISCC is registered on a public blockchain, this happens
 in the context of a transaction which is public, open and transparent.
@@ -587,7 +588,7 @@ actor. This is the conceptual foundation for the OCCP.
 The specification for the ISCC provides a way to generate unique
 identifiers for digital media assets that can be registered by any actor
 on public blockchain networks. The decentralised cross-chain registry
-protocol[^7] describes a way to generate a ledger of registrations from
+protocol<sup id="a7">[7](#f7)</sup> describes a way to generate a ledger of registrations from
 transactions across multiple blockchain networks. This suggested second
 layer protocol for the ISCC will create a global and publicly auditable
 ledger of blockchain transactions that associate ISCCs with pseudonymous
@@ -682,7 +683,7 @@ undisclosed to the general public.
 
 In order to allow for even higher degrees of pseudonymity, the
 registrant can use the concept of Hierarchical Deterministic
-Wallets[^8], to create a new public key for each registration
+Wallets<sup id="a8">[8](#f8)</sup>, to create a new public key for each registration
 transaction. This prohibits outside observers to correlate multiple
 transactions, which could be misused as a heuristic to identify the
 registrant. The registrant only needs to share his public extended key
@@ -801,7 +802,7 @@ that generated the certification address.
 One possible and suggested way for certifiers to authenticate themself
 is through a process of domain validation. This method assumes that the
 certifier controls a public website which discloses verifiable
-information about the legal entity[^9], and that only the certifier is
+information about the legal entity<sup id="a9">[9](#f9)</sup>, and that only the certifier is
 in control of the web-hosting resource and domain that is used for the
 website.
 
@@ -973,7 +974,7 @@ appropriate contexts. We can interact with other people, institutions or
 systems that require us to identify ourselves (or things we control)
 while maintaining control over how much personal or private data should
 be revealed, and without depending on a central authority to guarantee
-the continued existence of the identifier."*[^10]
+the continued existence of the identifier."*<sup id="a10">[10](#f10)</sup>
 
 For the OCCP it seems semantically justified to call the public
 blockchain addresses of the registrants and certifiers self-sovereign
@@ -987,7 +988,7 @@ draft on Decentralised Identifiers.
 After investigating the standard and terminology of the Verifiable
 Credentials Data Model 1.0, the applicability of the model for digital
 content certification as suggested by the OCCP needs to be further
-discussed.[^11]
+discussed.<sup id="a11">[11](#f11)</sup>
 
 Content certification could be considered and described as a 'process
 that consist of a blockchain transaction performed by an issuer
@@ -1140,13 +1141,13 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-<b id="f1">FN 1: </b>See also initiatives in the US, like the Deeptrust Alliance
+[[^1 :]](#a1) See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
     authenticity.org](https://contentauthenticity.org/). [[^1]](#a1)
 
-[^2]: Or as the working party on intellectual property (copyright) from
+[[^2 :]](#a2) Or as the working party on intellectual property (copyright) from
     the Finnish government writes in their stocktaking paper: "In
     general terms, the problems relating to licensing markets in Europe
     are caused by the fact that works and rightholders are often not
@@ -1161,7 +1162,7 @@ cause disputes and a social reputation model will kick in.
     European Union, Brussels, 20 December 2019, document nr. 15016/19.
     [https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf](https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf)
 
-[^3]: Artikel 17 "An online content-sharing service provider shall \...
+[[^3 :]](#a3) Artikel 17 "An online content-sharing service provider shall \...
     obtain an authorisation from the rightholders, for instance by
     concluding a licensing agreement, in order to communicate to the
     public or make available to the public works or other subject
@@ -1170,11 +1171,11 @@ cause disputes and a social reputation model will kick in.
     (Directive 2019/790 on Copyright copyright in the Digital Single
     Market, [https://eur-lex.europa.eu/eli/dir/2019/790/oj](https://eur-lex.europa.eu/eli/dir/2019/790/oj))
 
-[^4]: [https://iscc.codes](https://iscc.codes)
+[[^4 :]](#a4) [https://iscc.codes](https://iscc.codes)
 
-[^5]: [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
+[[^5 :]](#a5) [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
 
-[^6]: For marketing purposes, a lot of startups present their content
+[[^6 :]](#a6) For marketing purposes, a lot of startups present their content
     timestamping services as a meaningful way to protect the copyright
     of the rightsholder. But timestamping content identifiers or
     cryptographic hashes on public blockchains does not by itself
@@ -1186,7 +1187,7 @@ cause disputes and a social reputation model will kick in.
     access to a hash by the registrant, therefore the existence of this
     hash, and therefore access to the hash, at this point in time.
 
-[^7]: The architecture of the open, decentralised cross-blockchain
+[[^7 :]](#a7) The architecture of the open, decentralised cross-blockchain
     registration protocol supports a service for the discovery of
     identical and similar content registered by different actors across
     different blockchains. See the technical specification on Github:
@@ -1199,11 +1200,11 @@ cause disputes and a social reputation model will kick in.
     title: "Decentralized Content Identifiers, a persistent global
     registry of content-aware binary codes".
 
-[^8]: Hierarchical Deterministic Wallets were originally specified for
+[[^8 :]](#a8) Hierarchical Deterministic Wallets were originally specified for
     Bitcoin as part of BIP-32, see
     [https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
-[^9]: It is a common requirement for publishers of information or
+[[^9 :]](#a9) It is a common requirement for publishers of information or
     services on the internet in (trans-)national legislation -- e.g. the
     Telemediengesetz (German meaning \"Telemedia Act\") -- that websites
     disclose information about the publisher, including their name and
@@ -1211,9 +1212,9 @@ cause disputes and a social reputation model will kick in.
     VAT number, and other information depending on the type of company.
     [https://en.wikipedia.org/wiki/Impressum](https://en.wikipedia.org/wiki/Impressum)
 
-[^10]: [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
+[[^10 :]](#a10) [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
 
-[^11]: For a comprehensive introduction read Drummond Reed and Alexander
+[[^11 :]](#a11) For a comprehensive introduction read Drummond Reed and Alexander
     Preukschat: The Basic Building Blocks of SSI,
     [https://freecontent.manning.com/the-basic-building-blocks-of-ssi/](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/),
     and the preview from the forthcoming publication of the same
