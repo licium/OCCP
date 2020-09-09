@@ -1,5 +1,11 @@
 # FAQ
 
+> [Chain of Title](#chain-of-title)
+>
+> [Accountability and Personal Data](#accountability-and-personal-data)
+>
+> [The Yeti Issue](#the-yeti-issue) 
+
 ## Chain of Title
 
 > Does certification need to start from or refer to the **original creator**?
