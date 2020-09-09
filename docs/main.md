@@ -310,7 +310,7 @@ online.
 In this area of abundance of content, (intentional) misinformation and
 (unintentional) disinformation is becoming a problem for societies. How
 can consumers and online platforms evaluate content integrity and learn
-what information to trust or not? It requires efforts, knowledge and
+what information to trust or not? It requires effort, knowledge and
 skills to verify the authenticity of original publications. And it
 requires simple and reliable methods and tools to check whether they
 have been manipulated or not.
@@ -461,7 +461,7 @@ digital content ownership.
 
 With the emergence of web 3.0 the Internet is moving towards a network
 of automated peer-to-peer transactions. An increasing amount of dynamic,
-short-lived and granular content need to be managed by a variety of
+short-lived and granular content needs to be managed by a variety of
 entities with different interests and requirements. Digital content
 continuously re-encodes, resizes, and re-compresses, changing its
 underlying data as it travels through a complex network of actors and
