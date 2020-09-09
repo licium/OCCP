@@ -2,7 +2,7 @@
 
 <img src="/occp-icon.png" width="250">
 
-# Status of this document <a id="#status-of-this-document">[TOC](#toc)</a>
+# Status of this document <sup id="#status-of-this-document">[toc](#toc)</sup>
 
 This draft version is open for feedback and discussion. It can be shared according to the license.
 
@@ -60,8 +60,9 @@ systems engineering and is an active member of the Open Source Software
 community.
 
 
-Table of Content <sup id="toc">[1](#f1)</sup>
+Table of Content <sup id="toc"></sup>
 ================
+<sup id="#status-of-this-document">[toc](#toc)</sup>
 
 **[Status of this document](#status-of-this-document)**
 
@@ -318,7 +319,7 @@ media content, the identities of certifiers and entities, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-# Motivation
+# Motivation <sup id="#motivation">[toc](#toc)</sup>
 
 Why do we need content certification? What we are seeing at this moment
 is the convergence of a number of independent developments that will
