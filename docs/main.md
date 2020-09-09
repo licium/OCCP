@@ -288,7 +288,7 @@ media content, the identities of certifiers and entities, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-# Motivation <sup id="toc">[[^toc]](#toc)</sup>
+# Motivation <sup id="motivation">[[^toc]](#toc)</sup>
 
 Why do we need content certification? What we are seeing at this moment
 is the convergence of a number of independent developments that will
