@@ -1,5 +1,7 @@
-# Open Content Certification Protocol (OCCP)
-Whitepaper
+# Whitepaper: Open Content Certification Protocol (OCCP)
+
+
+<img src="/occp-icon.png" width="250">
 
 # Status of this document
 
@@ -342,7 +344,7 @@ have been manipulated or not.
 Policy makers in all parts of the world are trying to tackle the current
 media crisis and fight misinformation and fake news by enforcing an
 increased transparency and greater accountability for content that is
-published online by users and rightsholders. [^1]
+published online by users and rightsholders. <a name="Footnote1">1</a>
 
 ## Missing Identifiers and Attribution
 
@@ -1138,7 +1140,7 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-[^1]: See also initiatives in the US, like the Deeptrust Alliance
+<sup>[1](Footnote1)</sup>: See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
