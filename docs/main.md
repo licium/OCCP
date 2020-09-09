@@ -63,7 +63,7 @@ community.
 Table of Content <sup id="toc">[1](#f1)</sup>
 ================
 
-**[Status of this document](#status-of-this-document)** <sup id="#status-of-this-document">[Status of this document](#status-of-this-document)</sup>
+**[Status of this document](#status-of-this-document)**
 
 **[License](#license)**
 
