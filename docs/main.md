@@ -26,7 +26,6 @@ License:
 Sebastian Posth\
 [Posth Werk BV](https://posth.me/)
 
-Email: [sebastian\@posth.me](mailto:sebastian@posth.me)\
 Twitter: [\@posth](https://twitter.com/posth)\
 LinkedIn:
 [https://www.linkedin.com/in/posth/](https://www.linkedin.com/in/posth/)
@@ -44,7 +43,6 @@ adoption of the International Standard Content Code.
 Kevin Wittek\
 [wittek.dev](https://wittek.dev/)
 
-Email: [kevin\@wittek.dev](http://kevin@wittek.dev)\
 Twitter: [\@kiview](https://twitter.com/kiview)\
 LinkedIn:
 [https://www.linkedin.com/in/kevin-wittek-098a84110/](https://www.linkedin.com/in/kevin-wittek-098a84110/)
@@ -58,6 +56,11 @@ After many years working in the industry as a software engineer, Kevin
 is now doing his PhD in computer science in the field of distributed
 systems engineering and is an active member of the Open Source Software
 community.
+
+# OCCP -- Overview
+
+<img src="images/occp-image5.png" width="800">\
+*Fig.: OCCP – Overview*
 
 
 Table of Content
@@ -154,131 +157,104 @@ Certificates](#verification-of-content-certificates)**
 
 # Terms and Definitions
 
-**Actor**
-
+**Actor**\
 individual or organisation, program or machine that performs an action
 
-**Entity**
-
+**Entity**\
 legal individual or organisation
 
-**User**
-
+**User**\
 individual or organisation that interacts with a software application,
 an online service or a platform
 
-**Consumer**
-
+**Consumer**\
 individual that consumes digital media content
 
-**Registration**
-
+**Registration**\
 the act of registering an ISCC on a public blockchain network, which
 might represent or be connected to an assertion or claim of an
 individual or organisation
 
-**Assertion**
-
+**Assertion**\
 declaration of a positive statement without evidence or proof
 
-**Claim**
-
+**Claim**\
 assertion of ownership or entitlement
 
-**Registrant**
-
+**Registrant**\
 individual or organisation that registers an ISCC, assertions or claims
 on a public blockchain network
 
-**Registration address**
-
+**Registration address**\
 blockchain address that is generated and used by the registrant
 
-**Rightsholder**
-
+**Rightsholder**\
 individual or organisation that holds rights to a specific digital media
 asset; licensor or licensee; a creator, a publisher, a record label, an
 intermediary or a retailer, even a consumer can be considered as a
 rightsholder
 
-**Validation**
-
+**Validation**\
 the act of validating a claim or a certificate
 
-**Verification**
-
+**Verification**\
 the act of verifying and confirming
 
-**Falsification**
-
+**Falsification**\
 the act of falsifying and disproving
 
-**Attestation**
-
+**Attestation**\
 the act of attesting; public acknowledgment, confirmation or affirmation
 
-**Identity**
-
+**Identity**\
 defined by characteristics or properties describing an individual or
 organisation
 
-**Identification**
-
+**Identification**\
 formal acknowledgment of the identity of an individual or organisation
 
-**Authenticity**
-
+**Authenticity**\
 quality of being genuine and not manipulated
 
-**Authentication**
-
+**Authentication**\
 act of act of proving an assertion to verify identity
 
-**Attribution**
-
+**Attribution**\
 formal acknowledgment that a registrant of an ISCC is a rightsholder or
 has another defined relationship to the to the digital asset
 
-**Certification address**
-
+**Certification address**\
 blockchain address that is generated and used by the certifier
 
-**Certifier**
-
+**Certifier**\
 publicly known, legally established and registered organisations (e.g.
 in the local chamber of commerce) or other entities that are entitled to
 perform acts of certification
 
-**Content certification**
-
+**Content certification**\
 act of attestation by a certifier; public acknowledgment by the
 certifier that a specific assertion or claim can be associated with an
 entity whose identity has been verified by the certifier
 
-**Content Certificate**
-
+**Content Certificate**\
 result of certification process, issued implicitly when a certification
 transaction is confirmed on a public blockchain network
 
-**Digital Asset**
-
+**Digital Asset**\
 file encoded in a specific format
 
-**Content**
-
+**Content**\
 Substance of what is contained
 
-**Content identification**
-
+**Content identification**\
 Generating an ISCC for the purpose of identification and verification of
 the identity of content
 
- 
 
 # Abstract
 
 <img src="images/occp-image1.png" width="500">\
-*Fig. 1: Example of a content certificate, image via pixabay.com*
+*Fig.: Example of a content certificate, image via pixabay.com*
 
 The Open Content Certification Protocol (OCCP) provides a description of
 the process and involved technologies that can be used by creative
@@ -432,8 +408,8 @@ Foundation](https://iscc.foundation/),
 protocol](https://github.com/titusz/iscc-registry), developed by
 Titusz Pan.
 
-<img src="images/occp-image2.png" width="500">\
-*Fig. 2: layer model*
+<img src="images/occp-image2.png" width="800">\
+*Fig.: layer model*
 
 The specification of the ISCC provides a way to generate unique
 identifiers for digital media assets. The decentralised cross-chain
@@ -523,7 +499,7 @@ organisations, registries or proprietary third-party services and
 software.
 
 <img src="images/occp-image3.png" width="800">\
-*Fig. 3: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 Processing the content with the algorithms defined by the [ISCC
 specification](https://iscc.codes)<sup id="a4">[4](#f4)</sup> creates a unique composite
@@ -599,7 +575,7 @@ signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
 <img src="images/occp-image4.png" width="800">\
-*Fig. 4: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github](https://github.com/titusz/iscc-registry/blob/master/README.md)*
+*Fig.: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github](https://github.com/titusz/iscc-registry/blob/master/README.md)*
 
 ## Self-Authorisation of the Registrant
 
@@ -717,11 +693,6 @@ associated with the ISCC-ID are generated from the same credentials. For
 each subsequent transaction any third party can verify whether new
 information has been published by the same credentials as the ones that
 are associated with the ISCC-ID.
-
-# OCCP -- Overview
-
-<img src="images/occp-image5.png" width="800">\
-*Fig. 5: OCCP – Overview*
  
 
 # Use Cases
@@ -774,7 +745,7 @@ their relationships by concluding bilateral agreements.
 ## Creation of Certifier Wallet
 
 <img src="images/occp-image6.png" width="800">\
-*Fig. 6: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 Certifiers can create a certification address for themselves and
 independently of any organisation, registry or other centralised
@@ -800,7 +771,7 @@ in control of the web-hosting resource and domain that is used for the
 website.
 
 <img src="images/occp-image7.png" width="800">\
-*Fig. 7: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 After creation of the certification address this public address needs to
 be published on the websites of the certifier in such a way that is
@@ -822,7 +793,7 @@ certifier.
 ## Creation of Registrant Wallet
 
 <img src="images/occp-image8.png" width="800">\
-*Fig. 8: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 Registrants can create a registration address for themselves and
 independently of any organisation, registry or other centralised
@@ -848,7 +819,7 @@ registrant, and regulates other matters. This agreement must be signed
 offline or offchain.
 
 <img src="images/occp-image9.png" width="800">\
-*Fig. 9: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 ## Challenge
 
@@ -882,7 +853,7 @@ assertions or claims to the content by having access to the digital
 assets, only.
 
 <img src="images/occp-image10.png" width="800">\
-*Fig. 10: Step from OCCP – Process*
+*Fig.: Step from OCCP – Process*
 
 To resolve the requested information, verifiers can decentrally generate
 an ISCC from a digital asset using dedicated software applications.
@@ -922,7 +893,7 @@ registrants of digital content.
 # OCCP -- Process Overview
 
 <img src="images/occp-image11.png" width="800">\
-*Fig. 11: OCCP – Process*
+*Fig.: OCCP – Process*
 
 # Further Discussion
 
