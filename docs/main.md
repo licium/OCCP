@@ -1,6 +1,5 @@
 # Whitepaper: Open Content Certification Protocol (OCCP)
 
-
 <img src="/occp-icon.png" width="250">
 
 # Status of this document
