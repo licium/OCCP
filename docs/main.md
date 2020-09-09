@@ -703,6 +703,7 @@ are associated with the ISCC-ID.
  
 
 # Use Cases
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 *1. Membership organisations, collective management organisations (CMO)
 or performance rights organisations (PRO) are representing creative
