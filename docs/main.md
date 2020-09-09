@@ -1140,13 +1140,13 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-<b id="f1">[[^1 :]](#a1)</b> See also initiatives in the US, like the Deeptrust Alliance
+<a id="f1">FN 1:</a> See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
     authenticity.org](https://contentauthenticity.org/). [[^1]](#a1)
 
-[[^2 :]](#a2) Or as the working party on intellectual property (copyright) from
+<a id="f2">FN 2:</a> Or as the working party on intellectual property (copyright) from
     the Finnish government writes in their stocktaking paper: "In
     general terms, the problems relating to licensing markets in Europe
     are caused by the fact that works and rightholders are often not
@@ -1161,7 +1161,7 @@ cause disputes and a social reputation model will kick in.
     European Union, Brussels, 20 December 2019, document nr. 15016/19.
     [https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf](https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf)
 
-[[^3 :]](#a3) Artikel 17 "An online content-sharing service provider shall \...
+<a id="f3">FN 3:</a> Artikel 17 "An online content-sharing service provider shall \...
     obtain an authorisation from the rightholders, for instance by
     concluding a licensing agreement, in order to communicate to the
     public or make available to the public works or other subject
@@ -1170,11 +1170,11 @@ cause disputes and a social reputation model will kick in.
     (Directive 2019/790 on Copyright copyright in the Digital Single
     Market, [https://eur-lex.europa.eu/eli/dir/2019/790/oj](https://eur-lex.europa.eu/eli/dir/2019/790/oj))
 
-[[^4 :]](#a4) [https://iscc.codes](https://iscc.codes)
+<a id="f4">FN 4:</a> [https://iscc.codes](https://iscc.codes)
 
-[[^5 :]](#a5) [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
+<a id="f5">FN 5:</a> [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
 
-[[^6 :]](#a6) For marketing purposes, a lot of startups present their content
+<a id="f6">FN 6:</a> For marketing purposes, a lot of startups present their content
     timestamping services as a meaningful way to protect the copyright
     of the rightsholder. But timestamping content identifiers or
     cryptographic hashes on public blockchains does not by itself
@@ -1186,7 +1186,7 @@ cause disputes and a social reputation model will kick in.
     access to a hash by the registrant, therefore the existence of this
     hash, and therefore access to the hash, at this point in time.
 
-[[^7 :]](#a7) The architecture of the open, decentralised cross-blockchain
+<a id="f7">FN 7:</a> The architecture of the open, decentralised cross-blockchain
     registration protocol supports a service for the discovery of
     identical and similar content registered by different actors across
     different blockchains. See the technical specification on Github:
@@ -1199,11 +1199,11 @@ cause disputes and a social reputation model will kick in.
     title: "Decentralized Content Identifiers, a persistent global
     registry of content-aware binary codes".
 
-[[^8 :]](#a8) Hierarchical Deterministic Wallets were originally specified for
+<a id="f8">FN 8:</a> Hierarchical Deterministic Wallets were originally specified for
     Bitcoin as part of BIP-32, see
     [https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
 
-[[^9 :]](#a9) It is a common requirement for publishers of information or
+<a id="f9">FN 9:</a> It is a common requirement for publishers of information or
     services on the internet in (trans-)national legislation -- e.g. the
     Telemediengesetz (German meaning \"Telemedia Act\") -- that websites
     disclose information about the publisher, including their name and
@@ -1211,9 +1211,9 @@ cause disputes and a social reputation model will kick in.
     VAT number, and other information depending on the type of company.
     [https://en.wikipedia.org/wiki/Impressum](https://en.wikipedia.org/wiki/Impressum)
 
-[[^10 :]](#a10) [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
+<a id="f10">FN 10:</a> [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
 
-[[^11 :]](#a11) For a comprehensive introduction read Drummond Reed and Alexander
+<a id="f11">FN 11:</a> For a comprehensive introduction read Drummond Reed and Alexander
     Preukschat: The Basic Building Blocks of SSI,
     [https://freecontent.manning.com/the-basic-building-blocks-of-ssi/](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/),
     and the preview from the forthcoming publication of the same
