@@ -62,9 +62,8 @@ community.
 
 Table of Content <sup id="toc"></sup>
 ================
-<sup id="#status-of-this-document">[toc](#toc)</sup>
 
-**[Status of this document](#status-of-this-document)**
+<a id="toc1">[Status of this document](#status-of-this-document)</a>
 
 **[License](#license)**
 
@@ -79,6 +78,8 @@ Table of Content <sup id="toc"></sup>
 **[Terms and Definitions](#terms-and-definitions)**
 
 **[Abstract](#abstract)**
+
+<a id="toc5">[Motivation](#motivation)</a>
 
 **[Motivation](#motivation)**
 
