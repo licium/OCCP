@@ -1084,7 +1084,7 @@ https://eur-lex.europa.eu/eli/dir/2019/790/oj (accessed Sep. 02, 2020).
 [https://www.w3.org/TR/vc-data-model/](https://www.w3.org/TR/vc-data-model/) (accessed Sep. 02, 2020).
 
  
-
+[FAQ](faq.md)
 # FAQ
 
 ## Chain of Title
