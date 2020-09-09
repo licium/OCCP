@@ -344,7 +344,7 @@ have been manipulated or not.
 Policy makers in all parts of the world are trying to tackle the current
 media crisis and fight misinformation and fake news by enforcing an
 increased transparency and greater accountability for content that is
-published online by users and rightsholders. <a name="Footnote1">1</a>
+published online by users and rightsholders. <a href="Footnote1"><sup>1</a>
 
 ## Missing Identifiers and Attribution
 
