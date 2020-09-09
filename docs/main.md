@@ -344,7 +344,7 @@ have been manipulated or not.
 Policy makers in all parts of the world are trying to tackle the current
 media crisis and fight misinformation and fake news by enforcing an
 increased transparency and greater accountability for content that is
-published online by users and rightsholders. <sup id="Footnote1">1</sup>
+published online by users and rightsholders. <sup id="a1">[1](#f1)</sup>
 
 ## Missing Identifiers and Attribution
 
@@ -1140,11 +1140,11 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-<sup>[1](Footnote1)</sup>: See also initiatives in the US, like the Deeptrust Alliance
+<b id="f1">1</b>See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
-    authenticity.org](https://contentauthenticity.org/).
+    authenticity.org](https://contentauthenticity.org/).[↩](#a1)
 
 [^2]: Or as the working party on intellectual property (copyright) from
     the Finnish government writes in their stocktaking paper: "In
