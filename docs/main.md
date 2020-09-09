@@ -151,12 +151,6 @@ Certificates](#verification-of-content-certificates)**
 
 **[FAQ](#faq)**
 
-> [Chain of Title](#chain-of-title)
->
-> [Accountability and Personal Data](#accountability-and-personal-data)
->
-> [The Yeti Issue](#the-yeti-issue) 
-
 
 # Terms and Definitions
 
