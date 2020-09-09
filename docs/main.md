@@ -1159,7 +1159,7 @@ cause disputes and a social reputation model will kick in.
     rightholders." Developing the Copyright Infrastructure - Stocktaking
     of work and progress under the Finnish Presidency, Council of the
     European Union, Brussels, 20 December 2019, document nr. 15016/19.
-    [https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf](https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf)
+    [https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf](https://data.consilium.europa.eu/doc/document/ST-15016-2019-INIT/en/pdf) [[^2]](#a2)
 
 <a id="f3">FN 3:</a> Artikel 17 "An online content-sharing service provider shall \...
     obtain an authorisation from the rightholders, for instance by
@@ -1168,11 +1168,11 @@ cause disputes and a social reputation model will kick in.
     matter. \[\...\] For that purpose, rightholders should provide the
     service providers with relevant and necessary information ... ."
     (Directive 2019/790 on Copyright copyright in the Digital Single
-    Market, [https://eur-lex.europa.eu/eli/dir/2019/790/oj](https://eur-lex.europa.eu/eli/dir/2019/790/oj))
+    Market, [https://eur-lex.europa.eu/eli/dir/2019/790/oj](https://eur-lex.europa.eu/eli/dir/2019/790/oj)) [[^3]](#a3)
 
-<a id="f4">FN 4:</a> [https://iscc.codes](https://iscc.codes)
+<a id="f4">FN 4:</a> [https://iscc.codes](https://iscc.codes) [[^4]](#a4)
 
-<a id="f5">FN 5:</a> [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html)
+<a id="f5">FN 5:</a> [https://www.iso.org/committee/48836.html](https://www.iso.org/committee/48836.html) [[^5]](#a5)
 
 <a id="f6">FN 6:</a> For marketing purposes, a lot of startups present their content
     timestamping services as a meaningful way to protect the copyright
@@ -1184,7 +1184,7 @@ cause disputes and a social reputation model will kick in.
     content-derived identifiers or cryptographic hashes can be published
     by anyone for various other reasons. Timestamping merely proves
     access to a hash by the registrant, therefore the existence of this
-    hash, and therefore access to the hash, at this point in time.
+    hash, and therefore access to the hash, at this point in time. [[^6]](#a6)
 
 <a id="f7">FN 7:</a> The architecture of the open, decentralised cross-blockchain
     registration protocol supports a service for the discovery of
@@ -1197,11 +1197,11 @@ cause disputes and a social reputation model will kick in.
     QZEXVAPTVuA](https://www.youtube.com/watch?v=QZEXVAPTVuA). The
     concept will be published by Titusz Pan in a paper with the working
     title: "Decentralized Content Identifiers, a persistent global
-    registry of content-aware binary codes".
+    registry of content-aware binary codes". [[^7]](#a7)
 
 <a id="f8">FN 8:</a> Hierarchical Deterministic Wallets were originally specified for
     Bitcoin as part of BIP-32, see
-    [https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki)
+    [https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki](https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) [[^8]](#a8)
 
 <a id="f9">FN 9:</a> It is a common requirement for publishers of information or
     services on the internet in (trans-)national legislation -- e.g. the
@@ -1209,14 +1209,14 @@ cause disputes and a social reputation model will kick in.
     disclose information about the publisher, including their name and
     address, telephone number or e-mail address, trade registry number,
     VAT number, and other information depending on the type of company.
-    [https://en.wikipedia.org/wiki/Impressum](https://en.wikipedia.org/wiki/Impressum)
+    [https://en.wikipedia.org/wiki/Impressum](https://en.wikipedia.org/wiki/Impressum) [[^9]](#a9)
 
-<a id="f10">FN 10:</a> [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/)
+<a id="f10">FN 10:</a> [https://www.w3.org/TR/did-core/](https://www.w3.org/TR/did-core/) [[^10]](#a10)
 
 <a id="f11">FN 11:</a> For a comprehensive introduction read Drummond Reed and Alexander
     Preukschat: The Basic Building Blocks of SSI,
     [https://freecontent.manning.com/the-basic-building-blocks-of-ssi/](https://freecontent.manning.com/the-basic-building-blocks-of-ssi/),
     and the preview from the forthcoming publication of the same
     authors: Self-Sovereign Identity -- Decentralized Digital Identity
-    and Verifiable Credentials, [https://livebook.manning.com/book/self-sovereign-identity](https://livebook.manning.com/book/self-sovereign-identity).
+    and Verifiable Credentials, [https://livebook.manning.com/book/self-sovereign-identity](https://livebook.manning.com/book/self-sovereign-identity). [[^11]](#a11)
 
