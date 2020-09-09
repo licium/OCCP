@@ -2,7 +2,7 @@
 
 <img src="/occp-icon.png" width="250">
 
-# Status of this document <sup id="#status-of-this-document">[toc](#toc)</sup>
+# Status of this document
 
 This draft version is open for feedback and discussion. It can be shared according to the license.
 
@@ -60,10 +60,10 @@ systems engineering and is an active member of the Open Source Software
 community.
 
 
-Table of Content <sup id="toc"></sup>
+Table of Content
 ================
 
-<a id="toc1">[Status of this document](#status-of-this-document)</a>
+**[Status of this document](#status-of-this-document)**
 
 **[License](#license)**
 
@@ -78,8 +78,6 @@ Table of Content <sup id="toc"></sup>
 **[Terms and Definitions](#terms-and-definitions)**
 
 **[Abstract](#abstract)**
-
-<a id="toc5">[Motivation](#motivation)</a>
 
 **[Motivation](#motivation)**
 
