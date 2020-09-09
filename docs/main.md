@@ -288,7 +288,8 @@ media content, the identities of certifiers and entities, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
-# Motivation <sup id="motivation">[[^toc]](#toc)</sup>
+# Motivation 
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 Why do we need content certification? What we are seeing at this moment
 is the convergence of a number of independent developments that will
@@ -452,6 +453,7 @@ associated with specific assertions or claims, or to express and utilise
 digital content ownership.
 
 # International Standard Content Code (ISCC) 
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 With the emergence of web 3.0 the Internet is moving towards a network
 of automated peer-to-peer transactions. An increasing amount of dynamic,
@@ -521,6 +523,7 @@ establish a working group [ISO TC 46/SC 9/WG
 International Standard Content Code' to investigate the proposal.<sup id="a5">[5](#f5)</sup>
 
 # Content Certification
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 ## Public Key Cryptography
 
@@ -737,6 +740,7 @@ registrant as certifier for the content and testify the authenticity of
 the content and legitimacy to the connected information.*
 
 # Set-up
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 In order to start the certification process according to the OCCP, the
 registrants and the certifiers need to set-up their wallets as well as
@@ -840,6 +844,7 @@ is secured from man-in-the-middle-attacks, such as end-to-end encrypted
 messengers.
 
 # Verification of Content Certificates
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 Content certificates are open, discoverable and verifiable by anyone
 online and accessible for individuals or systems, using software
@@ -888,14 +893,14 @@ facilitate dispute resolution and significantly improve digital content
 licensing for creative individuals, media organisations and other
 registrants of digital content.
 
- 
-
 # OCCP -- Process Overview
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 <img src="images/occp-image11.png" width="800">\
 *Fig.: OCCP – Process*
 
 # Further Discussion
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 The authors of this whitepaper explicitly acknowledge the work of the
 members of the internet community on the following standards:
@@ -984,12 +989,14 @@ certification services, which includes offering conceptional advice,
 coaching and ethical guidance as well as technical documentations.
 
 # User Applications
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 User application that support the OCCP:
 
 Licium -- [Licium.app](http://licium.app)
 
 # Design Goals
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 The OCCP is based on the following design goals:
 
@@ -1011,9 +1018,8 @@ The OCCP is based on the following design goals:
 
 -   Discoverability
 
- 
-
 # References
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 \[1\]"BIP-0032 - Key derivation," GitHub.
 https://github.com/bitcoin/bips (accessed Sep. 02, 2020).
@@ -1050,9 +1056,11 @@ https://eur-lex.europa.eu/eli/dir/2019/790/oj (accessed Sep. 02, 2020).
 
  
 # FAQ
+<sup id="motivation">[[^toc]](#toc)</sup>
 We will list and answer frequently asked questions in this document: [FAQ](faq.md) 
 
 # Footnotes
+<sup id="motivation">[[^toc]](#toc)</sup>
 
 <a id="f1">FN 1:</a> See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
