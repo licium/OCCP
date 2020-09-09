@@ -1140,7 +1140,7 @@ cause disputes and a social reputation model will kick in.
 
 # Footnotes
 
-<b id="f1">1</b> [[^1 :]](#a1) See also initiatives in the US, like the Deeptrust Alliance
+<b id="f1">[[^1 :]](#a1)</b> See also initiatives in the US, like the Deeptrust Alliance
     [www.deeptrustalliance.org](http://www.deeptrustalliance.org)
     or the Content Authenticity Initiative (CAI), led by Adobe, Twitter
     and the New York Times: [https://content
