@@ -1005,14 +1005,14 @@ Licium -- [Licium.app](http://licium.app)
 
 The OCCP is based on the following design goals:
 
--   Transparency\
--   Trust\
--   Security\
--   Openness\
--   Fairness\
--   Inclusiveness\
--   Simplicity\
--   Interoperability\
+-   Transparency
+-   Trust
+-   Security  
+-   Openness
+-   Fairness
+-   Inclusiveness
+-   Simplicity
+-   Interoperability
 -   Discoverability
 
 # References
