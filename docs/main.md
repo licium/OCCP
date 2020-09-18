@@ -332,8 +332,8 @@ online does not have an open, standardised and reproducible identifier.
 Without digital content-derived identifiers, it is a time- consuming and
 difficult endeavour for consumers to unambiguously identify digital
 content and understand, who originally created and published it. Also,
-we can also observe a political agenda for more transparency and
-accountability.
+we can also observe a political agenda from the European policy makers
+for more transparency and accountability.
 
 ## Missing Rights Information
 
@@ -361,7 +361,7 @@ requires online content-sharing service providers (OCSSP) to clear the
 rights of content that has been published on their platforms or uploaded
 by the users of their services. It is almost impossible that the
 requirements of the Directive can be implemented in national laws
-without technology for automated content identification and automated
+without smart technology for automated content identification and automated
 retrieval of basic and verifiable metadata and rights management
 information.
 
