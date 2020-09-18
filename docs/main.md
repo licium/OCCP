@@ -46,7 +46,7 @@ Kevin Wittek\
 
 Twitter: [\@kiview](https://twitter.com/kiview)\
 LinkedIn:
-[https://www.linkedin.com/in/kevin-wittek-098a84110/](https://www.linkedin.com/in/kevin-wittek-098a84110/)
+[https://www.linkedin.com/in/kevin-wittek/](https://www.linkedin.com/in/kevin-wittek/)
 
 Kevin Wittek is Head of the Blockchain Lab at the Institute for Internet
 Security, Westphalian University of Applied Sciences, member of the
