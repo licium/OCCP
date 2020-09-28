@@ -20,7 +20,7 @@ License:
 
 
 # Contributors
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="Contributors">[[^toc]](#toc)</sup>
 
 ## Author
 
@@ -255,7 +255,7 @@ the identity of content
 
 
 # Abstract
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="Abstract">[[^toc]](#toc)</sup>
 
 <img src="images/occp-image1.png" width="500">\
 *Fig.: Example of a content certificate, image via pixabay.com*
