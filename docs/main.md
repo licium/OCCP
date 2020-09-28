@@ -297,10 +297,11 @@ assets, only.
 # Motivation 
 <sup id="motivation">[[^toc]](#toc)</sup>
 
-Why do we need content certification? What we are seeing at this moment
-is the convergence of a number of independent developments that will
-shape the future of digital media publishing and underscore the need for
-content certification:
+What has been our motivation to publish the whitepaper for the Open 
+Content Certification Protocol? What we are seeing at this moment 
+is the convergence of a number of independent developments that 
+need to be addressed in order to shape the future of digital media publishing
+for the benefit of the cultural and creative communities. 
 
 ## Disinformation and Fake News
 
