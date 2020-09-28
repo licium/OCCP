@@ -3,6 +3,7 @@
 <img src="/occp-icon.png" width="250">
 
 # Status of this document
+<sup id="status-of-this-document">[[^toc]](#toc)</sup>
 
 This draft version is open for feedback and discussion. It can be shared according to the license.
 
@@ -10,6 +11,7 @@ Date: 2020-09-08\
 Version: 0.3
 
 # License
+<sup id="License">[[^toc]](#toc)</sup>
 
 This work is licensed under CC BY-NC-ND 4.0.
 
@@ -158,7 +160,7 @@ Certificates](#verification-of-content-certificates)**
 
 
 # Terms and Definitions
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="terms-and-definitions">[[^toc]](#toc)</sup>
 
 **Actor**\
 individual or organisation, program or machine that performs an action
@@ -399,6 +401,7 @@ certification can support this development. We observe a requirement for
 innovation in the digital media marketplaces.
 
 ## Approach
+<sup id="Approach">[[^toc]](#toc)</sup>
 
 The Open Content Certification Protocol (OCCP) suggests a process to
 create and verify content certificates by using open, content-derived,
@@ -433,6 +436,7 @@ media organisations, and reintroduce competition in the current media
 landscape.
 
 ## Addressees
+<sup id="Addressees">[[^toc]](#toc)</sup>
 
 Content certification will benefit content creators, media organisations
 and **all rightsholders in the value chain** of the cultural and
@@ -457,7 +461,7 @@ associated with specific assertions or claims, or to express and utilise
 digital content ownership.
 
 # International Standard Content Code (ISCC) 
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="international-standard-content-code-iscc">[[^toc]](#toc)</sup>
 
 With the emergence of web 3.0 the Internet is moving towards a network
 of automated peer-to-peer transactions. An increasing amount of dynamic,
@@ -527,7 +531,7 @@ establish a working group [ISO TC 46/SC 9/WG
 International Standard Content Code' to investigate the proposal.<sup id="a5">[5](#f5)</sup>
 
 # Content Certification
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="content-certification">[[^toc]](#toc)</sup>
 
 ## Public Key Cryptography
 
@@ -703,7 +707,7 @@ are associated with the ISCC-ID.
  
 
 # Use Cases
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="use-cases">[[^toc]](#toc)</sup>
 
 *1. Membership organisations, collective management organisations (CMO)
 or performance rights organisations (PRO) are representing creative
@@ -745,7 +749,7 @@ registrant as certifier for the content and testify the authenticity of
 the content and legitimacy to the connected information.*
 
 # Set-up
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="set-up">[[^toc]](#toc)</sup>
 
 In order to start the certification process according to the OCCP, the
 registrants and the certifiers need to set-up their wallets as well as
@@ -849,7 +853,7 @@ is secured from man-in-the-middle-attacks, such as end-to-end encrypted
 messengers.
 
 # Verification of Content Certificates
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="verification-of-content-certificates">[[^toc]](#toc)</sup>
 
 Content certificates are open, discoverable and verifiable by anyone
 online and accessible for individuals or systems, using software
@@ -899,13 +903,13 @@ licensing for creative individuals, media organisations and other
 registrants of digital content.
 
 # OCCP -- Process Overview
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="occp-process-overview">[[^toc]](#toc)</sup>
 
 <img src="images/occp-image11.png" width="800">\
 *Fig.: OCCP – Process*
 
 # Further Discussion
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="further-discussion">[[^toc]](#toc)</sup>
 
 The authors of this whitepaper explicitly acknowledge the work of the
 members of the internet community on the following standards:
@@ -994,14 +998,14 @@ certification services, which includes offering conceptional advice,
 coaching and ethical guidance as well as technical documentations.
 
 # User Applications
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="user-applications">[[^toc]](#toc)</sup>
 
 User application that support the OCCP:
 
 Licium -- [Licium.app](http://licium.app)
 
 # Design Goals
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="design-goals">[[^toc]](#toc)</sup>
 
 The OCCP is based on the following design goals:
 
@@ -1016,7 +1020,7 @@ The OCCP is based on the following design goals:
 -   Discoverability
 
 # References
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="references">[[^toc]](#toc)</sup>
 
 \[1\]"BIP-0032 - Key derivation," GitHub.
 https://github.com/bitcoin/bips (accessed Sep. 02, 2020).
@@ -1053,7 +1057,7 @@ https://eur-lex.europa.eu/eli/dir/2019/790/oj (accessed Sep. 02, 2020).
 
  
 # FAQ
-<sup id="motivation">[[^toc]](#toc)</sup>
+<sup id="faq">[[^toc]](#toc)</sup>
 We will list and answer frequently asked questions in this document: [FAQ](faq.md) 
 
 # Footnotes
