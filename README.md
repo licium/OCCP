@@ -1,4 +1,6 @@
 # Open Content Certification Protocol (OCCP) 
+[![DOI](https://zenodo.org/badge/286673612.svg)](https://zenodo.org/badge/latestdoi/286673612)
+
 
 <img src="occp-icon.png" width="250">
 
