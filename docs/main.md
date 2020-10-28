@@ -100,7 +100,7 @@ Table of Content <sup id="toc"></sup>
 
 **[Approach](#approach)**
 
-**[Addressees](#addressees)**
+**[Stakeholders](#stakeholders)**
 
 **[International Standard Content Code
 (ISCC)](#international-standard-content-code-iscc)**
@@ -195,21 +195,19 @@ blockchain address that is generated and used by the registrant
 
 **Rightsholder**\
 individual or organisation that holds rights to a specific digital media
-asset; licensor or licensee; a creator, a publisher, a record label, an
-intermediary or a retailer, even a consumer can be considered as a
-rightsholder
+asset;
 
 **Validation**\
-the act of validating a claim or a certificate
+the act of validating an assertion or a claim
 
 **Verification**\
-the act of verifying and confirming
+the act of verifying and confirming an assertion or a claim
 
 **Falsification**\
-the act of falsifying and disproving
+the act of falsifying and disproving an assertion or a claim
 
 **Attestation**\
-the act of attesting; public acknowledgment, confirmation or affirmation
+the act of attesting; public acknowledgment, confirmation or affirmation of an assertion or a claim
 
 **Identity**\
 defined by characteristics or properties describing an individual or
@@ -222,11 +220,11 @@ formal acknowledgment of the identity of an individual or organisation
 quality of being genuine and not manipulated
 
 **Authentication**\
-act of act of proving an assertion to verify identity
+act of proving an assertion in order to verify identity
 
 **Attribution**\
-formal acknowledgment that a registrant of an ISCC is a rightsholder or
-has another defined relationship to the to the digital asset
+formal acknowledgment of a certifier that a registrant of an ISCC is a rightsholder or
+has another defined relationship to the digital asset
 
 **Certification address**\
 blockchain address that is generated and used by the certifier
@@ -242,10 +240,10 @@ certifier that a specific assertion or claim can be associated with an
 entity whose identity has been verified by the certifier
 
 **Content Certificate**\
-result of certification process, issued implicitly when a certification
+result of certification process, issued automatically when a certification
 transaction is confirmed on a public blockchain network
 
-**Digital Asset**\
+**Digital Media Asset**\
 file encoded in a specific format
 
 **Content**\
@@ -272,7 +270,7 @@ connect information, basic metadata, licensing terms and other rights
 management information to digital content.
 
 Public organisations can act as certification authorities. By means of
-one blockchain transaction certifiers openly testify that they have
+a blockchain transaction certifiers openly testify that they have
 verified the identity of an entity and acknowledge that a specific
 assertion or claim to a digital asset can verifiably be associated with
 this entity.
@@ -283,14 +281,14 @@ ensure accountability of entities, even if they must or prefer to remain
 pseudonymous.
 
 Content Certificates are the result of the certification process. They
-are issued implicitly when a certification transaction is confirmed on
+are issued automatically when a certification transaction is confirmed on
 any public blockchain network. Thus, content certificates are open,
 discoverable and verifiable by anyone online and accessible for
 individuals or systems, using software applications or APIs.
 
 Services and applications can process content certificates in an
 automated way so that their users can verify the authenticity of digital
-media content, the identities of certifiers and entities, and their
+media content, the identities of certifiers and registrants, and their
 assertions or claims to the content by having access to the digital
 assets, only.
 
@@ -340,10 +338,10 @@ for more transparency and accountability.
 
 ## Missing Rights Information
 
-Creators demand respect, attribution and a fair remuneration for their
+Creators demand respect, attribution and fair remuneration for their
 creative work. But without basic metadata, licensing terms and other
 rights management information, inseparably connected to the content, it
-is simply impossible to properly credit a work or learn about the terms
+is exceedly difficult to properly credit a work or learn about the terms
 of use.<sup id="a2">[2](#f2)</sup>
 
 Content creators and other rightsholders lack an easy way to provide
@@ -421,7 +419,7 @@ Titusz Pan.
 *Fig.: layer model*
 
 The specification of the ISCC provides a way to generate unique
-identifiers for digital media assets. The decentralised cross-chain
+identifiers for digital media content. The decentralised cross-chain
 registry protocol creates a ledger of transactions that associate
 identifiers with pseudonymous registrants of ISCCs, assertions or
 claims. The OCCP suggests a way to connect a pseudonymous registrant
@@ -436,8 +434,8 @@ of content, support a fair remuneration for creative individuals and
 media organisations, and reintroduce competition in the current media
 landscape.
 
-## Addressees
-<sup id="Addressees">[[^toc]](#toc)</sup>
+## Stakeholders
+<sup id="stakeholders">[[^toc]](#toc)</sup>
 
 Content certification will benefit content creators, media organisations
 and **all rightsholders in the value chain** of the cultural and
@@ -1108,7 +1106,7 @@ We will list and answer frequently asked questions in this document: [FAQ](faq.m
     content-derived identifiers or cryptographic hashes can be published
     by anyone for various other reasons. Timestamping merely proves
     access to a hash by the registrant, therefore the existence of this
-    hash, and therefore access to the hash, at this point in time. [[^6]](#a6)
+    hash, and therefore access to the hash, at a given point in time. [[^6]](#a6)
 
 <a id="f7">FN 7:</a> The architecture of the open, decentralised cross-blockchain
     registration protocol supports a service for the discovery of
