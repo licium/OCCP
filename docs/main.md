@@ -37,10 +37,6 @@ Sebastian Posth is an entrepreneur and consultant in the media
 industries with a focus on digital innovation and decentralized ledger
 technology.
 
-Sebastian is Director of the ISCC Foundation, an independent
-international nonprofit organization that promotes the development and
-adoption of the International Standard Content Code.
-
 ## Co-Author
 
 Kevin Wittek\
