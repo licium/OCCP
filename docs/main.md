@@ -633,7 +633,7 @@ an entity whose identity has been verified by the certifier.
 It is important to note that with a certification transaction **the
 certifier does not legally acknowledge attribution**. Although it
 could be the case that the registrant is in fact the original creator or
-a licensor in the value chain, who owns specific rights to use oder
+a licensor in the value chain, who owns specific rights to use or
 distribute content, or it could be the case that an individual or
 organisation is in fact otherwise entitled to provide authoritative
 metadata, licensing terms, rights management information to the content;
