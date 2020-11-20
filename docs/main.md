@@ -1111,8 +1111,7 @@ We will list and answer frequently asked questions in this document: [FAQ](faq.m
     [https://github.com/titusz/iscc-registry/blob/master/
     README.md](https://github.com/titusz/iscc-registry/blob/master/README.md).
     In August 2020, Titusz Pan presented a technical proof of concept,
-    see a short presentation: [https://www.youtube.com/watch?v=
-    QZEXVAPTVuA](https://www.youtube.com/watch?v=QZEXVAPTVuA). The
+    see a short presentation: [https://www.youtube.com/watch?v=QZEXVAPTVuA](https://www.youtube.com/watch?v=QZEXVAPTVuA). The
     concept will be published by Titusz Pan in a paper with the working
     title: "Decentralized Content Identifiers, a persistent global
     registry of content-aware binary codes". [[^7]](#a7)
