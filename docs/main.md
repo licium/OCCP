@@ -581,7 +581,7 @@ signed by the private key of the registrant. This inseparably binds a
 specific ISCC to the pseudonymous actor of a blockchain transaction.
 
 <img src="images/occp-image4.png" width="800">\
-*Fig.: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github](https://github.com/titusz/iscc-registry/blob/master/README.md), (accessed Sept. 08, 2020)*
+*Fig.: Overview of ISCC -- Decentralized Cross-Chain Registry Protocol, by Titusz Pan via [Github](https://github.com/titusz/iscc-registry), (accessed Sept. 08, 2020)*
 
 ## Self-Authorisation of the Registrant
 
